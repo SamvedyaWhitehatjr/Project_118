@@ -1,0 +1,38 @@
+body
+{
+    background-color: #795C34;
+}
+
+h1
+{
+    font-family:'Fredoka', sans-serif;
+    background-color: #65350F;
+    color: black;
+}
+
+#show_sketch
+{
+    font-size: 14px;
+    float: right;
+    margin-right: 50px;
+}
+
+#score
+{
+    font-size: 14px;
+    font-family:'Fredoka', sans-serif;
+    color: black;
+}
+
+p
+{
+    font-size: 20px;
+    font-family:'Fredoka', sans-serif;
+    color: black;
+}
+
+#sketch_to_be_drawn{
+    font-size: 20px;
+    font-family:'Fredoka', sans-serif;
+    color: #65350F;
+}
